@@ -53,7 +53,6 @@ public class Calculatrice extends JFrame {
 	// StringBuilder tableau = new StringBuilder("");
 
 
-
 	public Calculatrice()
 	{		
 
