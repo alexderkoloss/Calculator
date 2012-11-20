@@ -48,8 +48,6 @@ public class Calculatrice extends JFrame {
 	double val1 ;
 	double val2 ;
 	static boolean flag = true;
-	
-	
 	int indice= 0 ;
 	
 	// StringBuilder tableau = new StringBuilder("");
